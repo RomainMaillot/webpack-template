@@ -1,3 +1,5 @@
+# Project build
+dist/
 
 # Created by https://www.gitignore.io/api/node,macos,windows
 # Edit at https://www.gitignore.io/?templates=node,macos,windows
@@ -68,7 +70,6 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-dist/
 
 # TypeScript v1 declaration files
 typings/
